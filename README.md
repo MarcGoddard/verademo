@@ -1,4 +1,4 @@
-# VeraDemo - Blab-a-Gag
+# MG Fork of VeraDemo - Blab-a-Gag
 
 ### :information_source: Notice
 
