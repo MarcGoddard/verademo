@@ -1,3 +1,4 @@
+# Adding line for base commit to initiate Veracode scan ideally!
 # MG Fork of VeraDemo - Blab-a-Gag
 
 ### :information_source: Notice
